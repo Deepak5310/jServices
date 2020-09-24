@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513945025397",
+    "firebase_url": "https://jservices-ef645.firebaseio.com",
+    "project_id": "jservices-ef645",
+    "storage_bucket": "jservices-ef645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513945025397:android:eccd4603abcc85e242713c",
+        "android_client_info": {
+          "package_name": "com.deedeveloper.jservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513945025397-e1m81tcr8564mmsavktfdbtt30r0nsbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJb4A1OqZa1v8Wk4tHCSR7MjDwTl7iGyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513945025397-e1m81tcr8564mmsavktfdbtt30r0nsbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

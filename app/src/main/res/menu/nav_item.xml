@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"
+        app:cnb_backgroundColor="@color/lightGreen"
+        app:cnb_iconColor="@color/green"
+        app:cnb_textColor="@color/black" />
+
+    <item
+        android:id="@+id/market"
+        android:icon="@drawable/ic_baseline_shopping_basket_24"
+        android:title="@string/market"
+        app:cnb_backgroundColor="@color/lightGreen"
+        app:cnb_iconColor="@color/green"
+        app:cnb_textColor="@color/black" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/profile"
+        app:cnb_backgroundColor="@color/lightGreen"
+        app:cnb_iconColor="@color/green"
+        app:cnb_textColor="@color/black" />
+</menu>
